@@ -14,8 +14,8 @@ I am a Ph.D. student at Columbia University (2024—), advised by Nikolaus Krieg
 
 [//]: ### News
 
-[//]: #- **[Jan. 2026]** Launched website.
+[//]: # - **[Jan. 2026]** Launched website.
 
-[//]: #{% include_relative _includes/publications.md %}
+[//]: # {% include_relative _includes/publications.md %}
 
-[//]: #{% include_relative _includes/services.md %}
+[//]: # {% include_relative _includes/services.md %}
