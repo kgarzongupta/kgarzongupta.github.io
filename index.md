@@ -8,6 +8,10 @@ I am a Ph.D. student at Columbia University (2024—), advised by Nikolaus Krieg
 
 ## Interests
 
-- **Machine Learning** 
-- **Artificial Intelligence**
-- **Neuroscience**
+- Machine Learning
+- Artificial Intelligence
+- Neuroscience
+
+## Publications
+
+- Please refer to my Google Scholar, left.
