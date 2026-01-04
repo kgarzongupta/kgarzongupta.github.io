@@ -16,5 +16,6 @@ I am a Ph.D. student at Columbia University (2024—), advised by Nikolaus Krieg
 
 - Up-to-date list available on Google Scholar
 
-
-*please cite as <u>Garzón Gupta, K.</u> in accordance with Hispanic double surname tradition.*
+<br>
+*please cite as <u>Garzón Gupta, K.</u>
+in accordance with Hispanic double surname tradition.*
