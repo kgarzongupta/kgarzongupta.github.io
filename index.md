@@ -11,5 +11,3 @@ I am a Ph.D. student at Columbia University (2024—), advised by Nikolaus Krieg
 - **Machine Learning** 
 - **Artificial Intelligence**
 - **Neuroscience**
-
-- 
