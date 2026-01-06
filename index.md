@@ -18,5 +18,4 @@ I am a Ph.D. student in Neurobiology & Behavior at Columbia University (2024—)
 
 <br>
 <br>
-**Please cite as <u>Garzón Gupta, K.</u>*<br>
-*in accordance with Hispanic double surname tradition.*
+**Please cite as <u>Garzón Gupta, K.</u>*
